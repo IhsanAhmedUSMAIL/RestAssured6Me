@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/LENOVO V15 Gen2/IdeaProjects/RestAssured6Me/src">
+        <classes>
+            <class name="ApiKeyTest.ApiKeyTest">
+            </class>
+            <class name="Campus._08_CountryTest">
+            </class>
+        </classes>
+    </test>
+</suite>
