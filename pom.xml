@@ -49,6 +49,8 @@
 
     </dependencies>
 
+
+
     <!--    Maven test çalıştırınca çalıştırılacak bölümün setlenmesi kısmı-->
 
     <!--  Jenkins in Çalıştırma komutunun , nereyi açlıştıracağını belirlediğimiz plugin -->
